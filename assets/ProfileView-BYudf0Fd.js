@@ -1,0 +1,1 @@
+import{r as t,u as a}from"./index-BISgHSxj.js";import{d as i,c as o,i as e,b as s}from"./vue-vendor-DCjok3UR.js";import"./charts-Bb6yjXMn.js";import"./map-BSbcx_7H.js";const r={class:"profile-view"},d=i({__name:"ProfileView",setup(m){return(n,c)=>(s(),o("div",r,[e(t,{title:"Mi Perfil"}),e(a,{message:"Vista no implementada"})]))}});export{d as default};

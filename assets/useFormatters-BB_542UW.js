@@ -1,0 +1,1 @@
+import{h as r,v as o,w as m,x as s,y as n,z as f,B as i,D as u,E as c,F as y,d,f as g}from"./index-BISgHSxj.js";function l(){const a=()=>d.settings.currency;return{currency:a,money:(t,e)=>g(t,e??a()),num:y,kw:c,energy:u,percent:i,duration:f,dateTime:n,date:s,time:m,relative:o,ago:r}}export{l as u};

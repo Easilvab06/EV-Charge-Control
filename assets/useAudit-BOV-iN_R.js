@@ -1,0 +1,1 @@
+import{l as a,a as s}from"./index-BISgHSxj.js";function u(){return{record:(r,e,o,c="success")=>{const t=a.currentUser;s.log(t==null?void 0:t.id,(t==null?void 0:t.name)??"Sistema",r,e,o,c)}}}export{u};

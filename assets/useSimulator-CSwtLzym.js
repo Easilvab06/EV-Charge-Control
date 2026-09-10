@@ -1,0 +1,1 @@
+import{s as r}from"./simulator.store-DHGSrbdA.js";import{f as o}from"./vue-vendor-DCjok3UR.js";function g(){const t=r,n=o(()=>t.running),e=o(()=>Object.keys(t.live).length);return{store:t,running:n,liveCount:e,toggle:()=>{t.running?t.stop():t.start()}}}export{g as u};

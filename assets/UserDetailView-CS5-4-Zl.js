@@ -1,0 +1,1 @@
+import{r as a,u as t}from"./index-BISgHSxj.js";import{d as s,c as o,i as e,b as i}from"./vue-vendor-DCjok3UR.js";import"./charts-Bb6yjXMn.js";import"./map-BSbcx_7H.js";const r={class:"user-detail"},f=s({__name:"UserDetailView",setup(m){return(n,c)=>(i(),o("div",r,[e(a,{title:"Detalle de Usuario"}),e(t,{message:"Vista no implementada"})]))}});export{f as default};
